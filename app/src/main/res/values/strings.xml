@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifecycleAwareComponents</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="next_screen">Next Screen</string>
+</resources>
